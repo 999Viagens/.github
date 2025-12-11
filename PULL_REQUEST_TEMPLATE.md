@@ -37,9 +37,9 @@ Uma forma útil de promover a inspiração é estabelecer um Modelo de RP. O con
 
 ## #6. Responda a todos os comentários.
 
-Em qualquer comunicação remota e assíncrona, é importante demonstrar que você viu **pelo menos** um comentário que era para você. Pode ser com uma simples reação com emoji, tudo bem! Nunca ignore um comentário, por menor que seja, especialmente em uma equipe nova. Depois de se familiarizar e criar um bom relacionamento com a equipe, tudo bem, aí sim você pode relevar alguns comentários, porque já existe um entendimento mútuo. Mas no início, seja educado, fale inglês impecável e comporte-se da melhor maneira possível.
+Em qualquer comunicação remota e assíncrona, é importante demonstrar que você viu **pelo menos** um comentário que era para você. Pode ser com uma simples reação com emoji, tudo bem! Nunca ignore um comentário, por menor que seja, especialmente em uma equipe nova. Depois de se familiarizar e criar um bom relacionamento com a equipe, tudo bem, aí sim você pode relevar alguns comentários, porque já existe um entendimento mútuo. Mas no início, seja educado, fe comporte-se da melhor maneira possível.
 
-## #7. Não faça a fusão até que todos aprovem.
+## #7. Não faça a merge até que todos aprovem.
 
 Falando em boas maneiras, é educado esperar até que todos que fizeram uma sugestão tenham a oportunidade de ouvir sua resposta e avaliá-la. Se você estiver esperando há um tempo relativamente longo, entre em contato com eles discretamente (por e-mail, mensagem instantânea, toque no ombro) e avise que está aguardando.
 
