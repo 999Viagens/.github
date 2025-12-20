@@ -121,20 +121,7 @@ Uma boa resposta para críticas minuciosas é destacar, educadamente, a inefici�
 
 > "Ops, desculpe, já é a quadragésima vez que ignoro isso. Alguém se importaria se eu criasse uma regra de linting para isso? Eu poderia adicioná-la à IDE para que fosse detectada durante a codificação, ou talvez a um hook do Git para que fosse detectada antes do push, ou até mesmo a um bot de CI que analisaria o PR e faria um comentário diretamente."
 
-## #17. Leve fios longos para uma sala de reuniões.
-
-Em algum momento da sua carreira, você se envolverá em uma discussão acalorada sobre um comentário em um comunicado de imprensa. A chave é interromper a conversa, acalmar os ânimos e, em seguida, escrever um e-mail para a pessoa com o seguinte teor:
-
-> Ei, idiota!
->
-> Desculpe pela discussão acalorada que estamos tendo na assessoria de imprensa. As coisas estão saindo um pouco do controle e acho que é hora de nos reunirmos por telefone ou pessoalmente, talvez com nosso superior imediato ou outros membros da equipe, e resolvermos isso da maneira tradicional. Não se apresse em responder. Podemos retomar o assunto amanhã, depois de refletirmos melhor.
->
-> Sinceramente seu,
-> Idiota.
-
-O segredo é romper com o ciclo infantil de abusos induzido pelo Twitter e marcar um encontro presencial. As pessoas nunca são tão brutais ou rudes pessoalmente quanto online. Certifique-se de chegar à reunião com a maior calma, com seus argumentos e contra-argumentos bem fundamentados, mas, acima de tudo, mantenha a objetividade. Vá para a reunião com o objetivo de encontrar a melhor solução, não para impor sua vontade.
-
-## #18. Mantenha o tom de voz uniforme
+## #17. Mantenha o tom de voz uniforme
 
 Criar um Pull Request é, por definição, convidar à crítica. Portanto, antes de mais nada: seja crítico. Questione, provoque e desafie — mas faça isso profissionalmente, não pessoalmente.
 
@@ -155,7 +142,7 @@ Ou voz passiva em vez disso.
 
 Presuma que as pessoas têm boas intenções. Mesmo que você tenha 100% de certeza de que elas estão sendo maldosas, há 10% de chance de você estar errado. Tente encontrar uma maneira de internalizar os comentários e evitar que a situação se agrave.
 
-## #19. Sem Pull Requests de emergência
+## #18. Sem Pull Requests de emergência
 
 Os Pull Requests se tornaram populares por dois motivos:
 
